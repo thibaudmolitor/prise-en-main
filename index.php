@@ -9,7 +9,7 @@
 	<header><h1>Mon site avec gitHub</h1></header>
 	<main>
 		<section>
-			<h2>1ere section</h2>
+			<h2>1ere section PIRATAGES</h2>
 		</section>
 	</main>
 	<footer>
